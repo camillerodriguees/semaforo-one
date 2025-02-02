@@ -35,5 +35,5 @@ Criar um semáforo funcional utilizando LEDs conectados ao Raspberry Pi Pico, al
 ### 1️⃣ Clonar o Repositório
 
 ```sh
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/camillerodriguees/semaforo-one.git)
+git clone https://github.com/camillerodriguees/semaforo-one.git
 
